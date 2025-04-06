@@ -1,5 +1,17 @@
 # @web/storybook-utils
 
+## 1.1.1
+
+### Patch Changes
+
+- 1bd1e53: try to prevent npm update issue "Could not resolve dependency" between Storybook 7 and 8
+
+## 1.1.0
+
+### Minor Changes
+
+- a10a0bd: add backwards compatible support for Storybook 8
+
 ## 1.0.2
 
 ### Patch Changes

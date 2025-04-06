@@ -1,5 +1,17 @@
 # @web/dev-server-polyfill
 
+## 1.0.6
+
+### Patch Changes
+
+- da68f94: publish as esm instead of commonjs
+
+## 1.0.5
+
+### Patch Changes
+
+- ae1c38d: update version of @web/polyfills-loader to make use of latest version of SCER polyfill
+
 ## 1.0.4
 
 ### Patch Changes

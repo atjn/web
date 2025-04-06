@@ -1,5 +1,24 @@
 # @web/mocks
 
+## 1.3.1
+
+### Patch Changes
+
+- 1bd1e53: try to prevent npm update issue "Could not resolve dependency" between Storybook 7 and 8
+- Updated dependencies [1bd1e53]
+  - @web/storybook-utils@1.1.1
+
+## 1.3.0
+
+### Minor Changes
+
+- a10a0bd: add backwards compatible support for Storybook 8
+
+### Patch Changes
+
+- Updated dependencies [a10a0bd]
+  - @web/storybook-utils@1.1.0
+
 ## 1.2.3
 
 ### Patch Changes
